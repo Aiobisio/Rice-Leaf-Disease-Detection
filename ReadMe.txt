@@ -1,0 +1,2 @@
+1.移动端测试机应当与作为后端的PC机处在同一WLAN中，cmd键入ipconfig/all可以查看当前主机ip
+2.请在Shell而非IDE中运行app.py，避免相对路径错误
